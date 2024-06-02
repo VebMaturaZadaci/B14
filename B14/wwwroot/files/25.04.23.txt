@@ -1,0 +1,11 @@
+06:00|Vesti|informativni|\Slike\info.PNG
+06:05|Jutarnji program|kolazni|\Slike\kolaz.PNG
+08:00|Jutarnji dnevnik|informativni|\Slike\info.PNG
+08:30|Jutri sa Ivanom Ivanovicem|kolazni|\Slike\kolaz.png
+11:00|Psi laju, vetar nosi|serijski|\Slike\ser.png
+12:00|Dnevnik|informativni|\Slike\info.png
+13:30|Bice skoro propast sveta|filmski|\Slike\film.png
+14:53|In memoriam Mirko Souc - Zivot sa muzikom|muzicki|\Slike\music.png
+15:20|Ovo je Srbija|kolazni|\Slike\kolaz.png
+16:05|Andrija i andjelka|serijski|\Slike\ser.png
+17:00|SLiga Sampiona|sportski|\Slike\sport.png

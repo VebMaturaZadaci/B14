@@ -1,0 +1,44 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+nav.navbar {
+    background-color: #374a74 !important;
+    color: white;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+    border-right: 1px solid white;
+    padding: 15px;
+}
+
+.footer {
+    background-color: #374a74 !important;
+}
+
+.footer span {
+    color: white;
+    margin-right: 800px;
+}
+
+.footer a {
+    color: white;
+    padding: 10px;
+}
